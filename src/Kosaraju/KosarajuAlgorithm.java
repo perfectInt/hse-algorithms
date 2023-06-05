@@ -1,3 +1,5 @@
+package Kosaraju;
+
 import java.util.*;
 
 class KosarajuAlgorithm {

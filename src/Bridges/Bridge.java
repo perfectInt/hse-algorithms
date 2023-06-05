@@ -1,3 +1,5 @@
+package Bridges;
+
 import java.util.*;
 
 class Bridge {
